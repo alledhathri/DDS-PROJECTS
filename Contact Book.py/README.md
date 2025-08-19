@@ -1,4 +1,4 @@
-Contact Book
+CONTACT BOOK
 
 📌 Description
 
@@ -13,6 +13,7 @@ Display all saved contacts
 
 Python (Core)
 Custom Linked List (using classes)
+
 ▶️ How to Run
 
 cd Contact_Book
